@@ -8,7 +8,6 @@
 
 <script>
 import ChatPage from './components/ChatPage.vue'
-
 export default {
   name: 'App',
   components: {
@@ -26,4 +25,3 @@ export default {
   color: #2c3e50;
   margin-top: 60px;
 }
-</style>
